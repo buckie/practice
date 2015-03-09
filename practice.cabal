@@ -25,7 +25,7 @@ executable practice
   -- other-extensions:    
   
   -- Other library packages from which modules are imported.
-  build-depends:       base >=4.7 && <4.8, base-prelude, unordered-containers, attoparsec, containers
+  build-depends:       base >=4.7 && <4.8, base-prelude, unordered-containers, attoparsec, containers, vector
   -- Directories containing source files.
   hs-source-dirs:      src
   
